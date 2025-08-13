@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Paras Saraf<br>-  I'm 3rd year Info Tech student at Sinhgad college of Engineering pune<br> 👀 I’m interested in Data Science , Artificial Intilligence, crave to learn new things<br>- 🌱 I’m currently learning Machine learning, deep learning, data science, python and R<br>- 💞️ I’m looking for Internship opportunity in respectful companies.<br>- 📫 Email- sarafparas792@gmail.com<br>
+ 👋 Hi, I’m Paras Saraf<br>-  I'm final year Info Tech student at Sinhgad college of Engineering pune<br> 👀 I’m interested in Data Science, SQL , Artificial Intilligence, crave to learn new things<br>- 🌱 I’m currently learning Machine learning, deep learning, data science, python and R<br>- 💞️ I’m looking for Internship opportunity in respectful companies.<br>- 📫 Email- sarafparas792@gmail.com<br>
 
 
 ## 🌐 Socials:
